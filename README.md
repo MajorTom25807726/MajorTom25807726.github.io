@@ -1,12 +1,12 @@
-# MajorTom25807726.github.io
+//MajorTom25807726.github.io
 
-波波的第一個網站ouob
+# 波波的第一個網站ouob
 
 我喜歡的歌
 =========
 [波波喜歡的歌](https://www.youtube.com/watch?v=hPc7m1ffj3s)
 
-波波的程式
+波波的程式(python,需要執行請用Google Colab)
 =========
 ```python
 import random
