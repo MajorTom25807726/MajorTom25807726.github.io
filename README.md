@@ -2,6 +2,22 @@
 
 # 波波的第一個網站ouob
 
+<table>
+    <tr>
+        <td>大一</td>
+    </tr>
+    <tr>
+        <td>大二</td>
+    </tr>
+</table>
+
+波波的自介
+=========
+* 2018 學C做1A2B和OOXX
+* 2019 學java沒做出東西
+* 2020 學processing做出墜機模擬器
+* 2021 學python立志做出Dcard自動回覆機器人
+
 我喜歡的歌
 =========
 [波波喜歡的歌](https://www.youtube.com/watch?v=hPc7m1ffj3s)
