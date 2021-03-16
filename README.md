@@ -1,5 +1,3 @@
-# MajorTom.github.io
-
 # 波波的第一個網站ouob
 
 
