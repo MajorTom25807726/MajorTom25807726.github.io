@@ -87,4 +87,5 @@ print("正確數字為:",number)
 ```
 
 # 波波喜歡的圖片
+![等著等著就老了 Wait Till Old](https://img.youtube.com/vi/S0twBO8l3pI/hqdefault.jpg)
 ![瑞克警長](https://i.pinimg.com/originals/5a/bf/1d/5abf1d5725f05fdfa493d6afd2584343.jpg)
